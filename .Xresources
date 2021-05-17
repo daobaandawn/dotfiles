@@ -1,0 +1,48 @@
+URxvt*scrollTtyOutput: false
+URxvt*scrollWithBuffer: true
+URxvt*scrollTtyKeypress: true
+URxvt*scrollBar: false
+URxvt.secondaryScreen: 1
+URxvt.secondaryScroll: 0
+URxvt.font: xft:mononoki:size=10
+URxvt.perl-ext-common:  ...,resize-font,...
+URxvt.iso14755: false
+URxvt.iso14755_52: false
+URxvt.depth: 32
+URxvt.background: [95]#282828
+! special
+*.foreground:   #ffffff
+*.background:   #303030
+*.cursorColor:  #ffffff
+
+! black
+*.color0:       #333333
+*.color8:       #3d3d3d
+
+! red
+*.color1:       #8c4665
+*.color9:       #bf4d80
+
+! green
+*.color2:       #287373
+*.color10:      #53a6a6
+
+! yellow
+*.color3:       #9696ff
+*.color11:      #a6a6e8
+
+! blue
+*.color4:       #395573
+*.color12:      #348cc7
+
+! magenta
+*.color5:       #5e468c
+*.color13:      #7e62b3
+
+! cyan
+*.color6:       #31658c
+*.color14:      #6096bf
+
+! white
+*.color7:       #bbd1d6
+*.color15:      #c0c0c0
